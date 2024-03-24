@@ -1,0 +1,7 @@
+c:\users\acer-v3\documents\visual studio 2010\Projects\faktoriyel hasaplama\faktoriyel hasaplama\bin\Debug\faktoriyel hasaplama.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\faktoriyel hasaplama\faktoriyel hasaplama\bin\Debug\faktoriyel hasaplama.pdb
+c:\users\acer-v3\documents\visual studio 2010\Projects\faktoriyel hasaplama\faktoriyel hasaplama\obj\x86\Debug\faktoriyel_hasaplama.Form1.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\faktoriyel hasaplama\faktoriyel hasaplama\obj\x86\Debug\faktoriyel_hasaplama.Properties.Resources.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\faktoriyel hasaplama\faktoriyel hasaplama\obj\x86\Debug\faktoriyel hasaplama.csproj.GenerateResource.Cache
+c:\users\acer-v3\documents\visual studio 2010\Projects\faktoriyel hasaplama\faktoriyel hasaplama\obj\x86\Debug\faktoriyel hasaplama.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\faktoriyel hasaplama\faktoriyel hasaplama\obj\x86\Debug\faktoriyel hasaplama.pdb
